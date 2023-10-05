@@ -1,4 +1,4 @@
-package color
+package github.com/zxhoper/color
 
 import "fmt"
 
